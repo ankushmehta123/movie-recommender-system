@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 
 # Load the preprocessed movie data
-new_df = pickle.load(open('movies.pkl', 'rb'))
+new_df = pickle.load(open('movie-recommender-system/movies.pkl', 'rb'))
 
 # Vectorization
 cv = CountVectorizer(max_features=5000, stop_words='english')
