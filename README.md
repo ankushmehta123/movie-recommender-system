@@ -8,7 +8,6 @@
 
 1. Select a movie from the dropdown menu.
 2. Click on the "Recommend" button to see similar movie recommendations.
-
   Try yourself: https://movie-recommender-system-nbujbndmciramzvpz6xurd.streamlit.app/
 
 ## Credits
